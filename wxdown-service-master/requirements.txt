@@ -1,0 +1,4 @@
+mitmproxy==10.2.4
+watchdog==3.0.0
+websockets==12.0
+rich==13.0.0
